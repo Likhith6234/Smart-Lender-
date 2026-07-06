@@ -10,7 +10,7 @@ A Machine Learning-based web application that predicts whether a loan applicatio
 | Resource | Link |
 |----------|------|
 | **Live Demo** | https://smart-lender-crsz.onrender.com |
-| **GitHub Repository** | https://github.com/your-username/Smart-Lender |
+| **GitHub Repository** | https://github.com/Likhith6234/Smart-Lender |
 
 ---
 
