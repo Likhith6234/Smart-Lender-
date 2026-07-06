@@ -191,17 +191,7 @@ The system predicts one of the following outcomes:
 The application is deployed on **Render** and can be accessed through the live demo link.
 
 **Live Application**
-
-https://your-render-link.onrender.com
-
----
-
-# Authors
-
-- Your Name
-- Team Member 2
-- Team Member 3
-- Team Member 4
+https://smart-lender-crsz.onrender.com
 
 ---
 
